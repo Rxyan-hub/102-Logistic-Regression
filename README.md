@@ -9,6 +9,11 @@
 ## Github Profile - Introduction
 This project uses **logistic regression** to predict **mortality in COVID-19 patients** based on sociodemographic and clinical features.
 
+# Data plot
+![Data Plot](https://github.com/user-attachments/assets/c196e8ab-e883-464e-ac78-e1a39cc6bdc3)
+# Prediction Plot
+![Prediction Plot](https://github.com/user-attachments/assets/d1f0e8d1-fd9c-4e93-b497-eaa52e2dd81f)
+
 ## Tech
 - Python, Pandas, NumPy  
 - Scikit-Learn, Matplotlib  
@@ -45,3 +50,4 @@ Source: [mention source if any]
 ## Acknowledgements
 - COVID-19 dataset source  
 - Any tutorials or references you used
+
